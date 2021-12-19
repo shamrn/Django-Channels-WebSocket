@@ -1,0 +1,8 @@
+# Django framework
+Django==4.0
+
+# DJango channels
+channels==3.0.4
+
+# Redis for channels
+channels-redis==3.3.1
